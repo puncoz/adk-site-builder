@@ -1,0 +1,3 @@
+This Website Designer Agent acts as an automated UI/UX designer. It translates functional requirements into a detailed
+visual blueprint, defining the design system (colors, typography, spacing, etc.), layout, and component styling in a
+structured Markdown format for a subsequent coding agent.
